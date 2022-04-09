@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aikyn
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: t.me/aiqyyn1
