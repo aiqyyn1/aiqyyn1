@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aikyn
+- 👋 Hi, I’m Aikyn and I'm student at SDU
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: t.me/aiqyyn1
