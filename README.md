@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aikyn and I'm student at SDU
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JS React and Node.js Express
 - 📫 How to reach me: t.me/aiqyyn1
