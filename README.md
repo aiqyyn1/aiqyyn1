@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aikyn and I'm student at SDU
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JS React and Node.js Express
+
+Hi, there !
+I'm a Frontend Developer skilled in JavaScript/TypeScript, React/Redux/Redux toolkit, Next.js, Apollo Client, Node.js, Express.js, Nest.js.
 - 📫 How to reach me: t.me/aiqyyn1
