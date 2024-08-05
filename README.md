@@ -1,7 +1,7 @@
 
 Hi, there !
 
-I'm a Frontend Developer skilled in Javascript, React, Node.js, Python.
+I'm a Frontend Developer skilled in Javascript, React, Node.js, Python, C++.
 
 Currently working at KenesAI
 
